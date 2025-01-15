@@ -1,5 +1,9 @@
-<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=noobow34&count_private=true&show_icons=true&theme=default" />
-<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobow34&layout=compact&theme=default" />
+<a href="https://github.com/noobow34">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=noobow34&count_private=true&show_icons=true&theme=default" />
+</a>
+<a href="https://github.com/noobow34">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobow34&layout=compact&theme=default" />
+</a>
 
 <!--
 **noobow34/noobow34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
