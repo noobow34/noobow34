@@ -1,4 +1,4 @@
-## Hi there 👋
+![](https://github-readme-stats.vercel.app/api?username=noobow34&count_private=true&show_icons=true&theme=default)
 
 <!--
 **noobow34/noobow34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
