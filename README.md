@@ -1,3 +1,6 @@
+2025年01月より毎日コミット（毎日芝生を植える）運動を行っています。  
+なお、プライベートリポジトリの私的便利ツールへのコミットが大多数となります。
+
 <a href="https://github.com/noobow34">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=noobow34&count_private=true&show_icons=true&theme=default" />
 </a>
